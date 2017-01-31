@@ -7,11 +7,16 @@ from selenium.webdriver.common.action_chains import ActionChains
 from random import randint
 import time
 firebase=firebase.FirebaseApplication('https://firstdatasample.firebaseio.com/')
+driver=webdriver.Chrome()
+driver.maximize_window()
 
 
-def scrapper(link,branch):
-	driver=webdriver.Chrome()
-	driver.maximize_window()
+#to add new tab follow
+#driver.find_element_by_tag_name('body').send_keys(Keys.COMMAND + 't') 
+#to close the tab 
+#driver.find_element_by_tag_name('body').send_keys(Keys.COMMAND + 'w')
+
+def scrapper(driver,link,branch):
 	driver.get(link)
 	try:
 		driver.find_element_by_xpath('//*[@id="registerPopupBox"]/div[2]/a/img').click()
@@ -57,7 +62,8 @@ def scrapper(link,branch):
 				data['savings']=item.find_element_by_xpath('.//a/div/div[2]/div[3]/p[2]/text()').text4
 			except:
 				pass
-		firebase.post(branch,data)
+		firebase.post("/pepperfry{}".format(branch),data)
+	time.sleep(5)
 urls={
 	'furniture':{
 		'livingRoom':{
@@ -314,12 +320,6 @@ urls={
 		}
 	}
 }
-
-# for cat in urls:
-# 	for sub_cat in urls[cat]:
-# 		print cat,sub_cat,type(urls[cat][sub_cat])
-
-
 if type(urls) is dict:
 	for cat in urls:
 		if(type(urls[cat]) is dict):
@@ -362,3 +362,5 @@ if type(urls) is dict:
 			scrapper(urls[cat],"/{}".format(cat))
 else:
 	print "not suitable"
+
+driver.quit()
