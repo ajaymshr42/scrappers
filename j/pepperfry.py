@@ -10,6 +10,12 @@ firebase=firebase.FirebaseApplication('https://firstdatasample.firebaseio.com/')
 driver=webdriver.Chrome()
 driver.maximize_window()
 
+
+#to add new tab follow
+#driver.find_element_by_tag_name('body').send_keys(Keys.COMMAND + 't') 
+#to close the tab 
+#driver.find_element_by_tag_name('body').send_keys(Keys.COMMAND + 'w')
+
 def scrapper(driver,link,branch):
 	driver.get(link)
 	try:
@@ -314,12 +320,6 @@ urls={
 		}
 	}
 }
-
-# for cat in urls:
-# 	for sub_cat in urls[cat]:
-# 		print cat,sub_cat,type(urls[cat][sub_cat])
-
-
 if type(urls) is dict:
 	for cat in urls:
 		if(type(urls[cat]) is dict):
