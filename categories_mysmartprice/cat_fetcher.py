@@ -12,15 +12,21 @@ for i in driver.find_elements_by_xpath('/html/body/div[4]/div/div[1]/div[1]/div/
 	}
 
 
-for i in cats:
-	driver.get(cats[i]['link'])
-	cats[i]['categories']={}
-	for j in driver.find_elements_by_xpath('/html/body/div[4]/div/div[2]/div/div/div/div/a'):
-		cat=j.text
-		cats[i]['categories'][str(cat).replace(' ','_')]={
-			'name':str(j.text),
-			'link':str(j.get_attribute('href'))
-		}
-
-
-print cats
+for cat in cats:
+	driver.get(cats[cat]['link'])
+	cats[cat]['categories']={}
+	sub_cats=driver.find_elements_by_xpath('/html/body/div[4]/div/div[2]/div/div[1]/div[1]')
+	for index_cat in range(3,3+len(sub_cats)-1):
+		sub_cat_name=sub_cats[index_cat-3].text
+		cats[cat]['categories'][str(sub_cat_name).replace(" ","_")]={}
+		cats[cat]['categories'][str(sub_cat_name).replace(" ","_")]['name']=str(sub_cat_name)
+		cats[cat]['categories'][str(sub_cat_name).replace(" ","_")]['categories']={}
+		items=driver.find_elements_by_xpath('/html/body/div[4]/div/div[2]/div[{}]/div[2]/div/div/a'.format(index_cat))
+		for item in items:
+			cat_name=item.text
+			cats[cat]['categories'][str(sub_cat_name).replace(" ","_")]['categories'][str(cat_name).replace(" ","_")]={
+				'name':str(cat_name),
+				'link':str(item.get_attribute('href'))
+			}
+with open("categoriesfile.txt","w") as file:
+	file.write("{}".format(cats))

@@ -1,0 +1,1912 @@
+{
+  "TV_&_Entertainment_Devices": {
+    "link": "http://www.mysmartprice.com/electronics/",
+    "name": "TV & Entertainment Devices",
+    "categories": {
+      "IPODS,_HOME_THEATERS_&_DVD_PLAYERS": {
+        "name": "IPODS, HOME THEATERS & DVD PLAYERS",
+        "categories": {
+          "Boom_Boxes": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/boom-boxes-price-list-in-india.html",
+            "name": "Boom Boxes"
+          },
+          "Video_&_DVD_Players": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/video-players-price-list-in-india.html",
+            "name": "Video & DVD Players"
+          },
+          "AV-Receivers": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/av-receivers-price-list-in-india.html",
+            "name": "AV-Receivers"
+          },
+          "Voice_Recorders": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/voice-recorders-price-list-in-india.html",
+            "name": "Voice Recorders"
+          },
+          "Karaoke_Players": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/karaoke-players-price-list-in-india.html",
+            "name": "Karaoke Players"
+          },
+          "Apple_iPod": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/apple-ipod-mp3-price-list-in-india.html",
+            "name": "Apple iPod"
+          },
+          "Sound_Amplifiers": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/sound-amplifiers-price-list-in-india.html",
+            "name": "Sound Amplifiers"
+          },
+          "FM-Radio": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/fm-radio-price-list-in-india.html",
+            "name": "FM-Radio"
+          },
+          "Video_Glasses": {
+            "link": "http://www.mysmartprice.com/electronics_nc/video-glasses-home-theatres",
+            "name": "Video Glasses"
+          },
+          "Smart_TV_Boxes": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/smart-tv-price-list-in-india.html",
+            "name": "Smart TV Boxes"
+          },
+          "Projectors": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/projectors-price-list-in-india.html",
+            "name": "Projectors"
+          },
+          "MP3_Players": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/ipod-mp3-price-list-in-india.html",
+            "name": "MP3 Players"
+          },
+          "Home_Theaters": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/home-theaters-price-list-in-india.html",
+            "name": "Home Theaters"
+          }
+        }
+      },
+      "GAMING_&_ACCESSORIES": {
+        "name": "GAMING & ACCESSORIES",
+        "categories": {
+          "Gaming_Consoles": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/gaming-console-price-list-in-india.html",
+            "name": "Gaming Consoles"
+          }
+        }
+      },
+      "LCD_&_LED_TVS": {
+        "name": "LCD & LED TVS",
+        "categories": {
+          "Samsung_LED_TV": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/samsung-tv-price-list-in-india.html",
+            "name": "Samsung LED TV"
+          },
+          "Sony_LED_TV": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/sony-tv-price-list-in-india.html",
+            "name": "Sony LED TV"
+          },
+          "Toshiba_LED_TV": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/toshiba-tv-price-list-in-india.html",
+            "name": "Toshiba LED TV"
+          },
+          "All_LED_&_LCD_TVs": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/tv-price-list-in-india.html",
+            "name": "All LED & LCD TVs"
+          },
+          "LG_LED_TV": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/lg-tv-price-list-in-india.html",
+            "name": "LG LED TV"
+          }
+        }
+      },
+      "HEADPHONES_&_MEMORY_CARDS": {
+        "name": "HEADPHONES & MEMORY CARDS",
+        "categories": {
+          "Headsets": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/headsets-price-list-in-india.html",
+            "name": "Headsets"
+          },
+          "Bluetooth_Headsets": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/bluetooth-headsets-price-list-in-india.html",
+            "name": "Bluetooth Headsets"
+          },
+          "Headphones": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/headphones-price-list-in-india.html",
+            "name": "Headphones"
+          },
+          "SD_Memory_Cards": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/sd-memory-cards-price-list-in-india.html",
+            "name": "SD Memory Cards"
+          },
+          "MicroSD_Memory_Cards": {
+            "link": "http://www.mysmartprice.com/accessories/pricelist/memory-cards-price-list-in-india.html",
+            "name": "MicroSD Memory Cards"
+          }
+        }
+      }
+    }
+  },
+  "Mobile,_Tablets_&_Accessories": {
+    "link": "http://www.mysmartprice.com/mobile/",
+    "name": "Mobile, Tablets & Accessories",
+    "categories": {
+      "LANDLINE_PHONES": {
+        "name": "LANDLINE PHONES",
+        "categories": {
+          "Landline_Phones": {
+            "link": "http://www.mysmartprice.com/accessories/pricelist/landline-phones-price-list-in-india.html",
+            "name": "Landline Phones"
+          }
+        }
+      },
+      "HEADPHONES_&_HEADSETS": {
+        "name": "HEADPHONES & HEADSETS",
+        "categories": {
+          "Bluetooth_Headsets": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/bluetooth-headsets-price-list-in-india.html",
+            "name": "Bluetooth Headsets"
+          },
+          "Headphones": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/headphones-price-list-in-india.html",
+            "name": "Headphones"
+          },
+          "Wired_Headsets": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/headsets-price-list-in-india.html",
+            "name": "Wired Headsets"
+          }
+        }
+      },
+      "MOBILE_PHONES": {
+        "name": "MOBILE PHONES",
+        "categories": {
+          "All_Mobile_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/mobile-price-list-in-india.html",
+            "name": "All Mobile Phones"
+          },
+          "Apple_iPhone": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/apple-mobile-price-list-in-india.html",
+            "name": "Apple iPhone"
+          },
+          "Unboxed_/_Refurbished_Phones": {
+            "link": "http://www.mysmartprice.com/refurbished/pricelist/refurbished-unboxed-mobiles-in-india.html",
+            "name": "Unboxed / Refurbished Phones"
+          },
+          "Oppo_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/oppo-mobile-price-list-in-india.html",
+            "name": "Oppo Phones"
+          },
+          "Samsung_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/samsung-mobile-price-list-in-india.html",
+            "name": "Samsung Phones"
+          },
+          "Mi_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/xiaomi-mobile-price-list-in-india.html",
+            "name": "Mi Phones"
+          },
+          "Intex_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/intex-mobile-price-list-in-india.html",
+            "name": "Intex Phones"
+          },
+          "Micromax_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/micromax-mobile-price-list-in-india.html",
+            "name": "Micromax Phones"
+          },
+          "Nokia_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/nokia-mobile-price-list-in-india.html",
+            "name": "Nokia Phones"
+          },
+          "Lyf_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/lyf-mobile-price-list-in-india.html",
+            "name": "Lyf Phones"
+          },
+          "Lava_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/lava-mobile-price-list-in-india.html",
+            "name": "Lava Phones"
+          },
+          "HTC_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/htc-mobile-price-list-in-india.html",
+            "name": "HTC Phones"
+          },
+          "Vivo_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/vivo-mobile-price-list-in-india.html",
+            "name": "Vivo Phones"
+          },
+          "Latest_Mobiles": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/latest-mobile-phones.html",
+            "name": "Latest Mobiles"
+          },
+          "Leeco_Phones": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/leeco-mobile-price-list-in-india.html",
+            "name": "Leeco Phones"
+          }
+        }
+      },
+      "TABLETS": {
+        "name": "TABLETS",
+        "categories": {
+          "Apple_iPad": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/apple-tablet-price-list-in-india.html",
+            "name": "Apple iPad"
+          },
+          "Micromax_Tablets": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/micromax-tablet-price-list-in-india.html",
+            "name": "Micromax Tablets"
+          },
+          "All_Tablets": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/tablet-price-list-in-india.html",
+            "name": "All Tablets"
+          },
+          "Samsung_Tablets": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/samsung-tablet-price-list-in-india.html",
+            "name": "Samsung Tablets"
+          },
+          "Lenovo_Tablets": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/lenovo-tablet-price-list-in-india.html",
+            "name": "Lenovo Tablets"
+          }
+        }
+      },
+      "MOBILE_ACCESSORIES": {
+        "name": "MOBILE ACCESSORIES",
+        "categories": {
+          "Mobile_Battery": {
+            "link": "http://www.mysmartprice.com/accessories/pricelist/batteries-price-list-in-india.html",
+            "name": "Mobile Battery"
+          },
+          "Screen_Guards": {
+            "link": "http://www.mysmartprice.com/accessories_nc/screen-guards",
+            "name": "Screen Guards"
+          },
+          "Cases_&_Covers": {
+            "link": "http://www.mysmartprice.com/accessories_nc/offers/cases-covers",
+            "name": "Cases & Covers"
+          },
+          "MicroSD_Memory_Cards": {
+            "link": "http://www.mysmartprice.com/accessories/pricelist/memory-cards-price-list-in-india.html",
+            "name": "MicroSD Memory Cards"
+          },
+          "Mobile_Chargers": {
+            "link": "http://www.mysmartprice.com/accessories/pricelist/chargers-price-list-in-india.html",
+            "name": "Mobile Chargers"
+          },
+          "Portable_&_Wireless_Speakers": {
+            "link": "http://www.mysmartprice.com/accessories/pricelist/wireless-speakers-price-list-in-india.html",
+            "name": "Portable & Wireless Speakers"
+          },
+          "Fitness_Bands": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/fitness-tracker-price-list-in-india.html",
+            "name": "Fitness Bands"
+          },
+          "Smart_Watches": {
+            "link": "http://www.mysmartprice.com/mobile/pricelist/smart-watches-price-list-in-india.html",
+            "name": "Smart Watches"
+          },
+          "Power_Banks": {
+            "link": "http://www.mysmartprice.com/accessories/pricelist/power-banks-price-list-in-india.html",
+            "name": "Power Banks"
+          },
+          "Cables": {
+            "link": "http://www.mysmartprice.com/accessories/pricelist/cables-price-list-in-india.html",
+            "name": "Cables"
+          }
+        }
+      }
+    }
+  },
+  "Beauty": {
+    "link": "http://www.mysmartprice.com/beauty/",
+    "name": "Beauty",
+    "categories": {
+      "NAILS": {
+        "name": "NAILS",
+        "categories": {
+          "Eye_Concealer": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/eye-concealer-price-list-in-india.html",
+            "name": "Eye Concealer"
+          },
+          "Eye_Liner": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/eye-liner-price-list-in-india.html",
+            "name": "Eye Liner"
+          },
+          "Eye_Shadow": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/eye-shadows-price-list-in-india.html",
+            "name": "Eye Shadow"
+          },
+          "Kajal": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/kajal-price-list-in-india.html",
+            "name": "Kajal"
+          },
+          "Mascara": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/mascara-price-list-in-india.html",
+            "name": "Mascara"
+          },
+          "Eye_Makeup_Remover": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/eye-make-up-remover-price-list-in-india.html",
+            "name": "Eye Makeup Remover"
+          }
+        }
+      },
+      "LIPS": {
+        "name": "LIPS",
+        "categories": {
+          "Foundation": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/foundation-and-compacts-price-list-in-india.html",
+            "name": "Foundation"
+          },
+          "Concealer": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/face-concealer-price-list-in-india.html",
+            "name": "Concealer"
+          },
+          "Blush": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/blush-and-bronzer-price-list-in-india.html",
+            "name": "Blush"
+          },
+          "Shaving_Foam_Cream_and_Gel": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/shaving-foam-cream-and-gel-price-list-in-india.html",
+            "name": "Shaving Foam Cream and Gel"
+          },
+          "BB_&_CC_Creams": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/bb-and-cc-cream-price-list-in-india.html",
+            "name": "BB & CC Creams"
+          },
+          "After_Shaves": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/after-shaves-price-list-in-india.html",
+            "name": "After Shaves"
+          },
+          "Cartridges_and_Blades": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/cartridges-and-blades-price-list-in-india.html",
+            "name": "Cartridges and Blades"
+          },
+          "Razors": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/razors-price-list-in-india.html",
+            "name": "Razors"
+          },
+          "Primer": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/primer-price-list-in-india.html",
+            "name": "Primer"
+          },
+          "Makeup_Remover": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/makeup-remover-price-list-in-india.html",
+            "name": "Makeup Remover"
+          },
+          "Bronzer": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/bronzer-price-list-in-india.html",
+            "name": "Bronzer"
+          },
+          "Shaving_Brushes": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/shaving-brushes-price-list-in-india.html",
+            "name": "Shaving Brushes"
+          },
+          "Compact_Powder": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/compact-price-list-in-india.html",
+            "name": "Compact Powder"
+          }
+        }
+      },
+      "EYES": {
+        "name": "EYES",
+        "categories": {
+          "Lip_Liners": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/lip-liners-price-list-in-india.html",
+            "name": "Lip Liners"
+          },
+          "Lipstick": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/lipstick-price-list-in-india.html",
+            "name": "Lipstick"
+          },
+          "Lip_Balms": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/lip-balms-price-list-in-india.html",
+            "name": "Lip Balms"
+          },
+          "Lip_Gloss": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/lip-gloss-price-list-in-india.html",
+            "name": "Lip Gloss"
+          }
+        }
+      },
+      "FRAGRANCE": {
+        "name": "FRAGRANCE",
+        "categories": {
+          "Nail_Polish": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/nail-polish-price-list-in-india.html",
+            "name": "Nail Polish"
+          },
+          "Nail_Polish_Remover": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/nail-polish-remover-price-list-in-india.html",
+            "name": "Nail Polish Remover"
+          },
+          "Nail_Effects": {
+            "link": "http://www.mysmartprice.com/beauty/pricelist/nail-effects-price-list-in-india.html",
+            "name": "Nail Effects"
+          }
+        }
+      }
+    }
+  },
+  "Home_&_Kitchen_Appliances": {
+    "link": "http://www.mysmartprice.com/appliance/",
+    "name": "Home & Kitchen Appliances",
+    "categories": {
+      "HEATERS,_FANS_&_COOLERS": {
+        "name": "HEATERS, FANS & COOLERS",
+        "categories": {
+          "Fans": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/fans-price-list-in-india.html",
+            "name": "Fans"
+          },
+          "Geysers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/geysers-price-list-in-india.html",
+            "name": "Geysers"
+          },
+          "Immersion_Rods": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/immersion-rods-price-list-in-india.html",
+            "name": "Immersion Rods"
+          },
+          "Room_Heaters": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/room-heaters-price-list-in-india.html",
+            "name": "Room Heaters"
+          },
+          "Air_Coolers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/air-coolers-price-list-in-india.html",
+            "name": "Air Coolers"
+          }
+        }
+      },
+      "HOME_APPLIANCES": {
+        "name": "HOME APPLIANCES",
+        "categories": {
+          "Irons": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/irons-price-list-in-india.html",
+            "name": "Irons"
+          },
+          "Dishwashers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/dishwashers-price-list-in-india.html",
+            "name": "Dishwashers"
+          },
+          "Vacuum_Cleaners": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/vacuum-cleaners-price-list-in-india.html",
+            "name": "Vacuum Cleaners"
+          },
+          "Egg_Boilers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/egg-boilers-price-list-in-india.html#subcategory=egg-boilers",
+            "name": "Egg Boilers"
+          },
+          "Inverters_&_Batteries": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/inverters-batteries-price-list-in-india.html",
+            "name": "Inverters & Batteries"
+          },
+          "Sewing_Machines": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/sewing-machines-price-list-in-india.html#subcategory=sewing-machines",
+            "name": "Sewing Machines"
+          },
+          "Washing_Machines": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/washing-machines-price-list-in-india.html",
+            "name": "Washing Machines"
+          },
+          "Emergency_Lights": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/emergency-light-price-list-in-india.html",
+            "name": "Emergency Lights"
+          },
+          "Spike_Surge_Protectors": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/spike-surge-protectors-price-list-in-india.html",
+            "name": "Spike Surge Protectors"
+          },
+          "Solar_Appliances": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/solar-appliances-price-list-in-india.html#subcategory=solar-appliances",
+            "name": "Solar Appliances"
+          },
+          "Refrigerators": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/refrigerators-price-list-in-india.html",
+            "name": "Refrigerators"
+          },
+          "Air_Purifiers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/air-purifiers-price-list-in-india.html#subcategory=air-purifiers",
+            "name": "Air Purifiers"
+          },
+          "Air_Conditioners": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/air-conditioner-price-list-in-india.html",
+            "name": "Air Conditioners"
+          },
+          "Voltage_Stabilizers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/voltage-stabilizers-price-list-in-india.html",
+            "name": "Voltage Stabilizers"
+          },
+          "UPS": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/power-supplies-price-list-in-india.html",
+            "name": "UPS"
+          }
+        }
+      },
+      "LIGHTING": {
+        "name": "LIGHTING",
+        "categories": {
+          "CFL_Bulbs": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/cfl-bulbs-price-list-in-india.html#subcategory=cfl-bulbs",
+            "name": "CFL Bulbs"
+          },
+          "LED_Lights": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/led-lights-price-list-in-india.html#subcategory=led-lights&property=1201262-4114457",
+            "name": "LED Lights"
+          }
+        }
+      },
+      "KITCHEN_APPLIANCES": {
+        "name": "KITCHEN APPLIANCES",
+        "categories": {
+          "Electric_(Rice)_Cookers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/electric-cookers-price-list-in-india.html",
+            "name": "Electric (Rice) Cookers"
+          },
+          "Microwave_Ovens": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/microwave-oven-price-list-in-india.html",
+            "name": "Microwave Ovens"
+          },
+          "Pop_Up_Toasters": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/pop-up-toasters-price-list-in-india.html",
+            "name": "Pop Up Toasters"
+          },
+          "Sandwich_Makers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/sandwich-makers-price-list-in-india.html",
+            "name": "Sandwich Makers"
+          },
+          "Stand_Mixers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/stand-mixers-price-list-in-india.html#subcategory=stand-mixers",
+            "name": "Stand Mixers"
+          },
+          "Food_Processors": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/food-processors-price-list-in-india.html",
+            "name": "Food Processors"
+          },
+          "Popcorn_Makers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/popcorn-makers-price-list-in-india.html#subcategory=popcorn-makers",
+            "name": "Popcorn Makers"
+          },
+          "Roti_Makers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/roti-makers-price-list-in-india.html#subcategory=roti-makers",
+            "name": "Roti Makers"
+          },
+          "Deep_Fat_Fryers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/deep-fat-fryers-price-list-in-india.html#subcategory=deep-fat-fryers",
+            "name": "Deep Fat Fryers"
+          },
+          "Pressure_Cookers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/pressure-cookers-price-list-in-india.html#subcategory=pressure-cookers",
+            "name": "Pressure Cookers"
+          },
+          "Air_Fryers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/air-fryers-price-list-in-india.html#subcategory=air-fryers&property=1201306-4289633",
+            "name": "Air Fryers"
+          },
+          "Kadai_&_Woks": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/kadai-and-woks-price-list-in-india.html#subcategory=kadai-and-woks",
+            "name": "Kadai & Woks"
+          },
+          "Induction_Cook_Tops": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/induction-cooktops-price-list-in-india.html",
+            "name": "Induction Cook Tops"
+          },
+          "Electric_Kettles": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/electric-kettles-price-list-in-india.html",
+            "name": "Electric Kettles"
+          },
+          "Water_Dispensers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/water-dispenser-price-list-in-india.html#subcategory=water-dispenser",
+            "name": "Water Dispensers"
+          },
+          "Choppers_&_Blenders": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/choppers-blenders-price-list-in-india.html",
+            "name": "Choppers & Blenders"
+          },
+          "Water_Purifiers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/water-purifiers-price-list-in-india.html",
+            "name": "Water Purifiers"
+          },
+          "Contact,_Tandor_&_Barbeque_Grills": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/grills-price-list-in-india.html#subcategory=grills",
+            "name": "Contact, Tandor & Barbeque Grills"
+          },
+          "Oven_Toaster_Grill_(OTG)": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/otg-price-list-in-india.html",
+            "name": "Oven Toaster Grill (OTG)"
+          },
+          "Pasta_Machines": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/pasta-machines-price-list-in-india.html#subcategory=pasta-machines",
+            "name": "Pasta Machines"
+          },
+          "Mixer_Grinder_Juicers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/mixers-price-list-in-india.html",
+            "name": "Mixer Grinder Juicers"
+          },
+          "Gas_Stoves_&_Hobs": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/gas-stoves-hobs-price-list-in-india.html#subcategory=gas-stoves-hobs",
+            "name": "Gas Stoves & Hobs"
+          },
+          "Coffee_Makers": {
+            "link": "http://www.mysmartprice.com/appliance/pricelist/coffee-makers-price-list-in-india.html",
+            "name": "Coffee Makers"
+          }
+        }
+      }
+    }
+  },
+  "Cameras,_DSLRs_&_Accessories": {
+    "link": "http://www.mysmartprice.com/camera/",
+    "name": "Cameras, DSLRs & Accessories",
+    "categories": {
+      "LENSES_&_LENS_ACCESSORIES": {
+        "name": "LENSES & LENS ACCESSORIES",
+        "categories": {
+          "Adapters_&_Converters": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/adapters-and-converters-price-list-in-india.html",
+            "name": "Adapters & Converters"
+          },
+          "Extension_Tubes": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/extension-tubes-price-list-in-india.html",
+            "name": "Extension Tubes"
+          },
+          "Lens_Cleaners_&_Kits": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/lens-cleaner-price-list-in-india.html",
+            "name": "Lens Cleaners & Kits"
+          },
+          "Lens_Filters": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/filters-price-list-in-india.html",
+            "name": "Lens Filters"
+          },
+          "Camera_Lenses": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/lenses-price-list-in-india.html",
+            "name": "Camera Lenses"
+          },
+          "Lens_Hoods": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/lens-hoods-price-list-in-india.html",
+            "name": "Lens Hoods"
+          },
+          "Lens_Caps": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/lens-cap-price-list-in-india.html",
+            "name": "Lens Caps"
+          }
+        }
+      },
+      "TRIPODS": {
+        "name": "TRIPODS",
+        "categories": {
+          "Tripods": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/tripods-price-list-in-india.html",
+            "name": "Tripods"
+          },
+          "Monopods": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/monopods-price-list-in-india.html",
+            "name": "Monopods"
+          },
+          "Camera_Mounts_&_Clamps": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/camera-mounts-and-clamps-price-list-in-india.html",
+            "name": "Camera Mounts & Clamps"
+          },
+          "Tripod_Ball_Heads": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/tripod-ball-heads-price-list-in-india.html",
+            "name": "Tripod Ball Heads"
+          }
+        }
+      },
+      "CAMERA_ACCESSORIES": {
+        "name": "CAMERA ACCESSORIES",
+        "categories": {
+          "Rechargeable_Batteries": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/rechargeable-batteries-price-list-in-india.html",
+            "name": "Rechargeable Batteries"
+          },
+          "Camera_&_Camcorder_Batteries": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/camera-and-camcorder-batteries-price-list-in-india.html",
+            "name": "Camera & Camcorder Batteries"
+          },
+          "Camera_Screen_Protectors": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/camera-screen-protectors-price-list-in-india.html",
+            "name": "Camera Screen Protectors"
+          },
+          "Camera_Battery_Grips": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/battery-grips-price-list-in-india.html#subcategory=battery-grips",
+            "name": "Camera Battery Grips"
+          },
+          "Battery_Chargers": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/battery-chargers-price-list-in-india.html",
+            "name": "Battery Chargers"
+          },
+          "Camera_Flashes": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/flashes-price-list-in-india.html",
+            "name": "Camera Flashes"
+          },
+          "Viewfinder_Extenders": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/viewfinder-extenders-price-list-in-india.html",
+            "name": "Viewfinder Extenders"
+          },
+          "Camera_Remote_Controls": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/camera-remote-controls-price-list-in-india.html",
+            "name": "Camera Remote Controls"
+          },
+          "SD_Memory_Cards": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/sd-memory-cards-price-list-in-india.html",
+            "name": "SD Memory Cards"
+          }
+        }
+      },
+      "CAMERAS,_DSLRS_&_MORE": {
+        "name": "CAMERAS, DSLRS & MORE",
+        "categories": {
+          "Binoculars_&_Telescopes": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/binoculars-price-list-in-india.html",
+            "name": "Binoculars & Telescopes"
+          },
+          "Camcorders": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/camcorder-price-list-in-india.html",
+            "name": "Camcorders"
+          },
+          "Digital_Cameras": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/digital-camera-price-list-in-india.html",
+            "name": "Digital Cameras"
+          },
+          "Digital_Photo_Frames": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/digital-photo-frames-price-list-in-india.html",
+            "name": "Digital Photo Frames"
+          },
+          "Digital_SLR_Cameras": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/digital-slr-camera-price-list-in-india.html",
+            "name": "Digital SLR Cameras"
+          },
+          "Surveillance_Camers": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/surveillance-cameras-price-list-in-india.html",
+            "name": "Surveillance Camers"
+          }
+        }
+      }
+    }
+  },
+  "Personal_&_Health_Devices": {
+    "link": "http://www.mysmartprice.com/care/",
+    "name": "Personal & Health Devices",
+    "categories": {
+      "HEALTH_CARE_PRODUCTS": {
+        "name": "HEALTH CARE PRODUCTS",
+        "categories": {
+          "Alternative_Health_Therapies": {
+            "link": "http://www.mysmartprice.com/care_nc/therapies-alternative-care",
+            "name": "Alternative Health Therapies"
+          },
+          "Pulse_Oximeter": {
+            "link": "http://www.mysmartprice.com/care/pricelist/pulse-oximeters-price-list-in-india.html",
+            "name": "Pulse Oximeter"
+          },
+          "Sexual_Wellness": {
+            "link": "http://www.mysmartprice.com/care/pricelist/sexual-wellness-price-list-in-india.html#subcategory=sexual-wellness",
+            "name": "Sexual Wellness"
+          },
+          "Digital_Thermometer": {
+            "link": "http://www.mysmartprice.com/care/pricelist/digital-thermometers-price-list-in-india.html",
+            "name": "Digital Thermometer"
+          },
+          "Heating_Pad": {
+            "link": "http://www.mysmartprice.com/care/pricelist/heat-therapy-price-list-in-india.html",
+            "name": "Heating Pad"
+          },
+          "Body_Fat_Analyzer": {
+            "link": "http://www.mysmartprice.com/care/pricelist/body-fat-monitors-price-list-in-india.html",
+            "name": "Body Fat Analyzer"
+          },
+          "BP_Monitor": {
+            "link": "http://www.mysmartprice.com/care/pricelist/bp-monitors-price-list-in-india.html",
+            "name": "BP Monitor"
+          },
+          "Crepe_Bandages_&_Supports": {
+            "link": "http://www.mysmartprice.com/care_nc/crepe-bandages-care",
+            "name": "Crepe Bandages & Supports"
+          },
+          "Pedometer": {
+            "link": "http://www.mysmartprice.com/care/pricelist/pedometer-step-counters-price-list-in-india.html",
+            "name": "Pedometer"
+          },
+          "Massager": {
+            "link": "http://www.mysmartprice.com/care/pricelist/massagers-price-list-in-india.html",
+            "name": "Massager"
+          },
+          "Diabetic_Care": {
+            "link": "http://www.mysmartprice.com/care/pricelist/diabetic-care-price-list-in-india.html#subcategory=diabetic-care",
+            "name": "Diabetic Care"
+          },
+          "Nebulizer": {
+            "link": "http://www.mysmartprice.com/care/pricelist/nebulizers-price-list-in-india.html",
+            "name": "Nebulizer"
+          },
+          "E-Cigarette_&_E-Shisha": {
+            "link": "http://www.mysmartprice.com/care_nc/e-cigarette-care",
+            "name": "E-Cigarette & E-Shisha"
+          },
+          "Glucometer": {
+            "link": "http://www.mysmartprice.com/care/pricelist/blood-glucose-monitors-price-list-in-india.html",
+            "name": "Glucometer"
+          }
+        }
+      },
+      "PERSONAL_CARE_PRODUCTS": {
+        "name": "PERSONAL CARE PRODUCTS",
+        "categories": {
+          "Electric_Toothbrush": {
+            "link": "http://www.mysmartprice.com/care/pricelist/electric-toothbrushes-price-list-in-india.html",
+            "name": "Electric Toothbrush"
+          },
+          "Hair_Styler": {
+            "link": "http://www.mysmartprice.com/care/pricelist/hair-stylers-price-list-in-india.html",
+            "name": "Hair Styler"
+          },
+          "Trimmer": {
+            "link": "http://www.mysmartprice.com/care/pricelist/trimmers-price-list-in-india.html",
+            "name": "Trimmer"
+          },
+          "Electric_Shaver": {
+            "link": "http://www.mysmartprice.com/care/pricelist/shavers-price-list-in-india.html",
+            "name": "Electric Shaver"
+          },
+          "Vision_Care": {
+            "link": "http://www.mysmartprice.com/care/pricelist/vision-care-price-list-in-india.html#subcategory=vision-care",
+            "name": "Vision Care"
+          },
+          "Hair_Straightener": {
+            "link": "http://www.mysmartprice.com/care/pricelist/hair-straighteners-price-list-in-india.html",
+            "name": "Hair Straightener"
+          },
+          "Oral_Hygiene": {
+            "link": "http://www.mysmartprice.com/care/pricelist/oral-hygiene-price-list-in-india.html#subcategory=oral-hygiene",
+            "name": "Oral Hygiene"
+          },
+          "Epilator": {
+            "link": "http://www.mysmartprice.com/care/pricelist/epilators-price-list-in-india.html",
+            "name": "Epilator"
+          },
+          "Hair_Curler": {
+            "link": "http://www.mysmartprice.com/care/pricelist/hair-curlers-price-list-in-india.html",
+            "name": "Hair Curler"
+          },
+          "Hair_Dryer": {
+            "link": "http://www.mysmartprice.com/care/pricelist/hair-dryers-price-list-in-india.html",
+            "name": "Hair Dryer"
+          }
+        }
+      },
+      "PET_CARE": {
+        "name": "PET CARE",
+        "categories": {
+          "Grooming": {
+            "link": "http://www.mysmartprice.com/care_nc/grooming-pet-care",
+            "name": "Grooming"
+          },
+          "Health_Care": {
+            "link": "http://www.mysmartprice.com/care_nc/health-pet-care",
+            "name": "Health Care"
+          },
+          "Pet_Food": {
+            "link": "http://www.mysmartprice.com/care/pricelist/pet-food-price-list-in-india.html#subcategory=pet-food",
+            "name": "Pet Food"
+          },
+          "Accessories": {
+            "link": "http://www.mysmartprice.com/care_nc/accessories-pet-care",
+            "name": "Accessories"
+          }
+        }
+      }
+    }
+  },
+  "Women_Fashion": {
+    "link": "http://www.mysmartprice.com/women/",
+    "name": "Women Fashion",
+    "categories": {
+      "POPULAR_CATEGORIES": {
+        "name": "POPULAR CATEGORIES",
+        "categories": {
+          "Handbags": {
+            "link": "http://www.mysmartprice.com/women/handbag-bags-women",
+            "name": "Handbags"
+          },
+          "Suit_Sets": {
+            "link": "http://www.mysmartprice.com/women/suits-ethnic-women",
+            "name": "Suit Sets"
+          },
+          "Shirts,Tops_&_Tees": {
+            "link": "http://www.mysmartprice.com/women/tops-clothing-women",
+            "name": "Shirts,Tops & Tees"
+          },
+          "Trousers": {
+            "link": "http://www.mysmartprice.com/women/trousers-bottoms-clothing-women",
+            "name": "Trousers"
+          },
+          "Earrings": {
+            "link": "http://www.mysmartprice.com/women/earrings-jewellery-women",
+            "name": "Earrings"
+          },
+          "Dresses": {
+            "link": "http://www.mysmartprice.com/women/dress-clothing-women",
+            "name": "Dresses"
+          },
+          "Sunglasses": {
+            "link": "http://www.mysmartprice.com/women/sunglasses-accessories-women",
+            "name": "Sunglasses"
+          },
+          "Wallets": {
+            "link": "http://www.mysmartprice.com/women/wallets-women",
+            "name": "Wallets"
+          },
+          "Leggings": {
+            "link": "http://www.mysmartprice.com/women/leggings-women",
+            "name": "Leggings"
+          },
+          "Sandals": {
+            "link": "http://www.mysmartprice.com/women/sandals-casual-shoes-women",
+            "name": "Sandals"
+          },
+          "Winter_Jackets": {
+            "link": "http://www.mysmartprice.com/women/jackets-winterwear-clothing-women",
+            "name": "Winter Jackets"
+          },
+          "Bras": {
+            "link": "http://www.mysmartprice.com/women/bras-lingerie-clothing-women",
+            "name": "Bras"
+          },
+          "Shorts_&_3/4ths": {
+            "link": "http://www.mysmartprice.com/women/shorts-3-4th-bottoms-clothing-women",
+            "name": "Shorts & 3/4ths"
+          },
+          "Flats": {
+            "link": "http://www.mysmartprice.com/women/flats-shoes-women",
+            "name": "Flats"
+          },
+          "Necklace_&_Sets": {
+            "link": "http://www.mysmartprice.com/women/necklace-jewellery-women",
+            "name": "Necklace & Sets"
+          },
+          "Casual_Shoes_&_Sneakers": {
+            "link": "http://www.mysmartprice.com/women/sneakers-women",
+            "name": "Casual Shoes & Sneakers"
+          },
+          "Dress_Materials": {
+            "link": "http://www.mysmartprice.com/women/dressmaterial-ethnic-women",
+            "name": "Dress Materials"
+          },
+          "Sling_&_Crossbody_bags": {
+            "link": "http://www.mysmartprice.com/women/slingbags-bags-women",
+            "name": "Sling & Crossbody bags"
+          },
+          "Skirts": {
+            "link": "http://www.mysmartprice.com/women/skirts-bottoms-clothing-women",
+            "name": "Skirts"
+          },
+          "Shrugs_&_Jackets": {
+            "link": "http://www.mysmartprice.com/women/shrugs-and-jackets-clothing-women",
+            "name": "Shrugs & Jackets"
+          },
+          "Jeans": {
+            "link": "http://www.mysmartprice.com/women/jeans-bottoms-clothing-women",
+            "name": "Jeans"
+          },
+          "Kurtas_&_Kurtis": {
+            "link": "http://www.mysmartprice.com/women/kurta-ethnic-women",
+            "name": "Kurtas & Kurtis"
+          },
+          "Watches": {
+            "link": "http://www.mysmartprice.com/women/watches-women",
+            "name": "Watches"
+          },
+          "Maternity": {
+            "link": "http://www.mysmartprice.com/women/maternity-clothing-women",
+            "name": "Maternity"
+          },
+          "Salwars_&_Churidars": {
+            "link": "http://www.mysmartprice.com/women/salwars-churidars-women",
+            "name": "Salwars & Churidars"
+          },
+          "Heels": {
+            "link": "http://www.mysmartprice.com/women/heels-shoes-women",
+            "name": "Heels"
+          },
+          "Sarees": {
+            "link": "http://www.mysmartprice.com/women/sarees-ethnic-women",
+            "name": "Sarees"
+          }
+        }
+      },
+      "BAGS": {
+        "name": "BAGS",
+        "categories": {
+          "Wallets": {
+            "link": "http://www.mysmartprice.com/women/wallets-women",
+            "name": "Wallets"
+          },
+          "Sling_&_Crossbody_bags": {
+            "link": "http://www.mysmartprice.com/women/slingbags-bags-women",
+            "name": "Sling & Crossbody bags"
+          },
+          "Clutches": {
+            "link": "http://www.mysmartprice.com/women/clutches-women",
+            "name": "Clutches"
+          },
+          "Handbags": {
+            "link": "http://www.mysmartprice.com/women/handbag-bags-women",
+            "name": "Handbags"
+          },
+          "Tote_Bags": {
+            "link": "http://www.mysmartprice.com/women/tote-bags-women",
+            "name": "Tote Bags"
+          }
+        }
+      },
+      "SHOES": {
+        "name": "SHOES",
+        "categories": {
+          "Sports_Shoes": {
+            "link": "http://www.mysmartprice.com/women/sports-shoes-women",
+            "name": "Sports Shoes"
+          },
+          "Bellies": {
+            "link": "http://www.mysmartprice.com/women/bellies-casual-shoes-women",
+            "name": "Bellies"
+          },
+          "Slippers_&_Flip_Flops": {
+            "link": "http://www.mysmartprice.com/women/slippers-shoes-women",
+            "name": "Slippers & Flip Flops"
+          },
+          "Boots": {
+            "link": "http://www.mysmartprice.com/women/boots-casual-shoes-women",
+            "name": "Boots"
+          },
+          "Platform_&_Wedges": {
+            "link": "http://www.mysmartprice.com/women/wedges-heels-shoes-women",
+            "name": "Platform & Wedges"
+          },
+          "Casual_Shoes_&_Sneakers": {
+            "link": "http://www.mysmartprice.com/women/sneakers-women",
+            "name": "Casual Shoes & Sneakers"
+          },
+          "Heels": {
+            "link": "http://www.mysmartprice.com/women/heels-shoes-women",
+            "name": "Heels"
+          },
+          "Flats": {
+            "link": "http://www.mysmartprice.com/women/flats-shoes-women",
+            "name": "Flats"
+          },
+          "Sandals": {
+            "link": "http://www.mysmartprice.com/women/sandals-casual-shoes-women",
+            "name": "Sandals"
+          }
+        }
+      },
+      "ACCESSORIES": {
+        "name": "ACCESSORIES",
+        "categories": {
+          "Eyeglasses": {
+            "link": "http://www.mysmartprice.com/women/eyeglasses-women",
+            "name": "Eyeglasses"
+          },
+          "Sunglasses": {
+            "link": "http://www.mysmartprice.com/women/sunglasses-accessories-women",
+            "name": "Sunglasses"
+          },
+          "Belts": {
+            "link": "http://www.mysmartprice.com/women/belts-accessories-women",
+            "name": "Belts"
+          },
+          "Stoles_&_Scarves": {
+            "link": "http://www.mysmartprice.com/women/stoles-scarves-women",
+            "name": "Stoles & Scarves"
+          },
+          "Watches": {
+            "link": "http://www.mysmartprice.com/women/watches-women",
+            "name": "Watches"
+          },
+          "Hair_Accessories": {
+            "link": "http://www.mysmartprice.com/women/hair-accessories-women",
+            "name": "Hair Accessories"
+          },
+          "Hats_&_Caps": {
+            "link": "http://www.mysmartprice.com/women/hats-caps-women",
+            "name": "Hats & Caps"
+          },
+          "Socks": {
+            "link": "http://www.mysmartprice.com/women/socks-women",
+            "name": "Socks"
+          }
+        }
+      },
+      "WINTER_WEAR": {
+        "name": "WINTER WEAR",
+        "categories": {
+          "Sweatshirts": {
+            "link": "http://www.mysmartprice.com/women/sweatshirts-winterwear-clothing-women",
+            "name": "Sweatshirts"
+          },
+          "Winter_Accessories": {
+            "link": "http://www.mysmartprice.com/women/accessories-winterwear-clothing-women",
+            "name": "Winter Accessories"
+          },
+          "Winter_Jackets": {
+            "link": "http://www.mysmartprice.com/women/jackets-winterwear-clothing-women",
+            "name": "Winter Jackets"
+          },
+          "Coats": {
+            "link": "http://www.mysmartprice.com/women/coats-winterwear-clothing-women",
+            "name": "Coats"
+          },
+          "Sweaters_&_Pullovers": {
+            "link": "http://www.mysmartprice.com/women/sweater-winterwear-clothing-women",
+            "name": "Sweaters & Pullovers"
+          },
+          "Thermal_Wear": {
+            "link": "http://www.mysmartprice.com/women/thermal-wear-women",
+            "name": "Thermal Wear"
+          }
+        }
+      },
+      "ETHNIC_CLOTHING": {
+        "name": "ETHNIC CLOTHING",
+        "categories": {
+          "Dupattas": {
+            "link": "http://www.mysmartprice.com/women/dupattas-women",
+            "name": "Dupattas"
+          },
+          "Suit_Sets": {
+            "link": "http://www.mysmartprice.com/women/suits-ethnic-women",
+            "name": "Suit Sets"
+          },
+          "Kurtas_&_Kurtis": {
+            "link": "http://www.mysmartprice.com/women/kurta-ethnic-women",
+            "name": "Kurtas & Kurtis"
+          },
+          "Salwars_&_Churidars": {
+            "link": "http://www.mysmartprice.com/women/salwars-churidars-women",
+            "name": "Salwars & Churidars"
+          },
+          "Dress_Materials": {
+            "link": "http://www.mysmartprice.com/women/dressmaterial-ethnic-women",
+            "name": "Dress Materials"
+          },
+          "Sarees": {
+            "link": "http://www.mysmartprice.com/women/sarees-ethnic-women",
+            "name": "Sarees"
+          },
+          "Lehengas": {
+            "link": "http://www.mysmartprice.com/women/lehengas-women",
+            "name": "Lehengas"
+          }
+        }
+      },
+      "LINGERIE_&_SLEEPWEAR": {
+        "name": "LINGERIE & SLEEPWEAR",
+        "categories": {
+          "Bras": {
+            "link": "http://www.mysmartprice.com/women/bras-lingerie-clothing-women",
+            "name": "Bras"
+          },
+          "Night_Suits": {
+            "link": "http://www.mysmartprice.com/women/nightwear-lingerie-clothing-women",
+            "name": "Night Suits"
+          },
+          "Sports_Bra": {
+            "link": "http://www.mysmartprice.com/women/sports-bra-women",
+            "name": "Sports Bra"
+          },
+          "Lingerie_Sets": {
+            "link": "http://www.mysmartprice.com/women/sets-lingerie-clothing-women",
+            "name": "Lingerie Sets"
+          },
+          "Night_Dresses": {
+            "link": "http://www.mysmartprice.com/women/night-dresses-women",
+            "name": "Night Dresses"
+          },
+          "Swimwear": {
+            "link": "http://www.mysmartprice.com/women/swimwear-women",
+            "name": "Swimwear"
+          },
+          "Accessories": {
+            "link": "http://www.mysmartprice.com/women/accessories-lingerie-clothing-women",
+            "name": "Accessories"
+          },
+          "Camisoles_&_Slips": {
+            "link": "http://www.mysmartprice.com/women/camisoles-women",
+            "name": "Camisoles & Slips"
+          },
+          "Shapewear": {
+            "link": "http://www.mysmartprice.com/women/shapewear-women",
+            "name": "Shapewear"
+          },
+          "Panties": {
+            "link": "http://www.mysmartprice.com/women/panties-lingerie-clothing-women",
+            "name": "Panties"
+          }
+        }
+      },
+      "FANCY_JEWELLERY": {
+        "name": "FANCY JEWELLERY",
+        "categories": {
+          "Bangles_&_Bracelets": {
+            "link": "http://www.mysmartprice.com/women/bangles-women",
+            "name": "Bangles & Bracelets"
+          },
+          "Rings": {
+            "link": "http://www.mysmartprice.com/women/rings-jewellery-women",
+            "name": "Rings"
+          },
+          "Pendant_&_Sets": {
+            "link": "http://www.mysmartprice.com/women/pendants-women",
+            "name": "Pendant & Sets"
+          },
+          "Necklace_&_Sets": {
+            "link": "http://www.mysmartprice.com/women/necklace-jewellery-women",
+            "name": "Necklace & Sets"
+          },
+          "Anklets_&_Toe_Rings": {
+            "link": "http://www.mysmartprice.com/women/anklets-women",
+            "name": "Anklets & Toe Rings"
+          },
+          "Earrings": {
+            "link": "http://www.mysmartprice.com/women/earrings-jewellery-women",
+            "name": "Earrings"
+          }
+        }
+      },
+      "CLOTHING": {
+        "name": "CLOTHING",
+        "categories": {
+          "Shorts_&_3/4ths": {
+            "link": "http://www.mysmartprice.com/women/shorts-3-4th-bottoms-clothing-women",
+            "name": "Shorts & 3/4ths"
+          },
+          "Plus_Size": {
+            "link": "http://www.mysmartprice.com/women/plussize-clothing-women",
+            "name": "Plus Size"
+          },
+          "Sportswear": {
+            "link": "http://www.mysmartprice.com/women/sportswear-women",
+            "name": "Sportswear"
+          },
+          "Shirts,Tops_&_Tees": {
+            "link": "http://www.mysmartprice.com/women/tops-clothing-women",
+            "name": "Shirts,Tops & Tees"
+          },
+          "Jumpsuits_&_Dungarees": {
+            "link": "http://www.mysmartprice.com/women/jumpsuits-women",
+            "name": "Jumpsuits & Dungarees"
+          },
+          "Jeans": {
+            "link": "http://www.mysmartprice.com/women/jeans-bottoms-clothing-women",
+            "name": "Jeans"
+          },
+          "Leggings": {
+            "link": "http://www.mysmartprice.com/women/leggings-women",
+            "name": "Leggings"
+          },
+          "Skirts": {
+            "link": "http://www.mysmartprice.com/women/skirts-bottoms-clothing-women",
+            "name": "Skirts"
+          },
+          "Trousers": {
+            "link": "http://www.mysmartprice.com/women/trousers-bottoms-clothing-women",
+            "name": "Trousers"
+          },
+          "Maternity": {
+            "link": "http://www.mysmartprice.com/women/maternity-clothing-women",
+            "name": "Maternity"
+          },
+          "Dresses": {
+            "link": "http://www.mysmartprice.com/women/dress-clothing-women",
+            "name": "Dresses"
+          },
+          "Shrugs_&_Jackets": {
+            "link": "http://www.mysmartprice.com/women/shrugs-and-jackets-clothing-women",
+            "name": "Shrugs & Jackets"
+          }
+        }
+      }
+    }
+  },
+  "Laptops_&_Peripherals": {
+    "link": "http://www.mysmartprice.com/computer/",
+    "name": "Laptops & Peripherals",
+    "categories": {
+      "NETWORKING": {
+        "name": "NETWORKING",
+        "categories": {
+          "Repeaters_&_Extenders": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/repeaters-and-extenders-price-list-in-india.html",
+            "name": "Repeaters & Extenders"
+          },
+          "USB_Hubs": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/usb-hubs-price-list-in-india.html",
+            "name": "USB Hubs"
+          },
+          "WiFi_Routers": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-router-price-list-in-india.html",
+            "name": "WiFi Routers"
+          },
+          "Antennas_&_Amplifiers": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/antennas-and-amplifiers-price-list-in-india.html",
+            "name": "Antennas & Amplifiers"
+          },
+          "Network_Interface_Cards": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-network-interface-cards-price-list-in-india.html",
+            "name": "Network Interface Cards"
+          },
+          "Wireless_USB_Adapters": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-wireless-usb-adapters-price-list-in-india.html",
+            "name": "Wireless USB Adapters"
+          },
+          "Switches": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-switches-price-list-in-india.html",
+            "name": "Switches"
+          },
+          "Access_Points": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-access-points-price-list-in-india.html",
+            "name": "Access Points"
+          },
+          "Modems": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/modems-price-list-in-india.html",
+            "name": "Modems"
+          },
+          "Power_LAN_Adapters": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/power-lan-adapters-price-list-in-india.html",
+            "name": "Power LAN Adapters"
+          },
+          "Data_Cards": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-data-cards-price-list-in-india.html",
+            "name": "Data Cards"
+          },
+          "Print_Servers": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/print-servers-price-list-in-india.html",
+            "name": "Print Servers"
+          },
+          "Bluetooth_Adapters": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/bluetooth-adapters-price-list-in-india.html",
+            "name": "Bluetooth Adapters"
+          }
+        }
+      },
+      "ACCESSORIES_&_PERIPHERALS": {
+        "name": "ACCESSORIES & PERIPHERALS",
+        "categories": {
+          "Speakers": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-speaker-price-list-in-india.html",
+            "name": "Speakers"
+          },
+          "Keyboard_Skins": {
+            "link": "http://www.mysmartprice.com/computer_nc/keyboard-skins-laptops",
+            "name": "Keyboard Skins"
+          },
+          "Touch_Pads": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/touch-pads-price-list-in-india.html",
+            "name": "Touch Pads"
+          },
+          "Laptop_Tables": {
+            "link": "http://www.mysmartprice.com/computer_nc/tables-laptops-accessories",
+            "name": "Laptop Tables"
+          },
+          "Laptop_Cleaning_Kits": {
+            "link": "http://www.mysmartprice.com/computer_nc/cleaning-kits-laptops",
+            "name": "Laptop Cleaning Kits"
+          },
+          "Keyboards": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-keyboard-price-list-in-india.html",
+            "name": "Keyboards"
+          },
+          "Headphones": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/headphones-price-list-in-india.html",
+            "name": "Headphones"
+          },
+          "Computer_Headsets": {
+            "link": "http://www.mysmartprice.com/electronics/pricelist/headsets-price-list-in-india.html",
+            "name": "Computer Headsets"
+          },
+          "Laptop_Screen_Protectors": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/portable-computer-screen-filters-price-list-in-india.html",
+            "name": "Laptop Screen Protectors"
+          },
+          "Laptop_Skins": {
+            "link": "http://www.mysmartprice.com/computer_nc/laptop-skins-accessories",
+            "name": "Laptop Skins"
+          },
+          "Hard_Disk_Cases": {
+            "link": "http://www.mysmartprice.com/computer_nc/hard-disk-cases-laptops",
+            "name": "Hard Disk Cases"
+          },
+          "Cooling_Pads": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-cooling-pads-and-stands-price-list-in-india.html",
+            "name": "Cooling Pads"
+          },
+          "Wrist_Rests": {
+            "link": "http://www.mysmartprice.com/computer_nc/wrist-rests-laptops",
+            "name": "Wrist Rests"
+          },
+          "Microphones": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/microphones-price-list-in-india.html",
+            "name": "Microphones"
+          },
+          "Webcams": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-webcam-price-list-in-india.html",
+            "name": "Webcams"
+          },
+          "Laptop_Docking_Stations": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/laptop-docking-stations-price-list-in-india.html",
+            "name": "Laptop Docking Stations"
+          },
+          "Laptop_Chargers_&_Adapters": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-laptop-chargers-price-list-in-india.html",
+            "name": "Laptop Chargers & Adapters"
+          },
+          "Presentation_Remotes": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/presentation-remotes-price-list-in-india.html",
+            "name": "Presentation Remotes"
+          },
+          "Laser_Pointers": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/laser-pointers-price-list-in-india.html",
+            "name": "Laser Pointers"
+          },
+          "Laptop_Bags": {
+            "link": "http://www.mysmartprice.com/computer_nc/bags-laptop-accessories",
+            "name": "Laptop Bags"
+          },
+          "Extended_Warranty": {
+            "link": "http://www.mysmartprice.com/computer_nc/extended-warranty-accessories-laptop",
+            "name": "Extended Warranty"
+          },
+          "Mouse_Pads": {
+            "link": "http://www.mysmartprice.com/computer_nc/mouse-pads-accessories",
+            "name": "Mouse Pads"
+          },
+          "Mouse": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-mouse-price-list-in-india.html",
+            "name": "Mouse"
+          },
+          "Monitors": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-monitor-price-list-in-india.html",
+            "name": "Monitors"
+          },
+          "Laptop_Batteries": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-laptop-battery-price-list-in-india.html",
+            "name": "Laptop Batteries"
+          }
+        }
+      },
+      "LAPTOPS": {
+        "name": "LAPTOPS",
+        "categories": {
+          "Sony_Laptops": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/sony-laptop-price-list-in-india.html",
+            "name": "Sony Laptops"
+          },
+          "Dell_Laptops": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/dell-laptop-price-list-in-india.html",
+            "name": "Dell Laptops"
+          },
+          "Lenovo_Laptops": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/lenovo-laptop-price-list-in-india.html",
+            "name": "Lenovo Laptops"
+          },
+          "HP_Laptops": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/hp-laptop-price-list-in-india.html",
+            "name": "HP Laptops"
+          },
+          "All_Laptops": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/laptops-price-list-in-india.html",
+            "name": "All Laptops"
+          },
+          "Laptop_Buying_Guide": {
+            "link": "http://www.mysmartprice.com/computer/laptop-buying-guide.html?ref=cat",
+            "name": "Laptop Buying Guide"
+          }
+        }
+      },
+      "DESKTOP_&_COMPONENTS": {
+        "name": "DESKTOP & COMPONENTS",
+        "categories": {
+          "RAM": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/ram-price-list-in-india.html",
+            "name": "RAM"
+          },
+          "Processors": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/processors-price-list-in-india.html",
+            "name": "Processors"
+          },
+          "Sound_Cards": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/sound-cards-price-list-in-india.html",
+            "name": "Sound Cards"
+          },
+          "Computer_Cabinets": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-cabinets-price-list-in-india.html",
+            "name": "Computer Cabinets"
+          },
+          "Internal_Hard_Drives": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/internal-hard-disk-price-list-in-india.html",
+            "name": "Internal Hard Drives"
+          },
+          "Power_Supply_Unit": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/smps-power-supplies-price-list-in-india.html",
+            "name": "Power Supply Unit"
+          },
+          "Desktop_&_CPU": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/desktop-price-list-in-india.html",
+            "name": "Desktop & CPU"
+          },
+          "Processor_Fans_&_Cooling": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/processor-fans-price-list-in-india.html",
+            "name": "Processor Fans & Cooling"
+          },
+          "Graphic_Cards": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/graphic-cards-price-list-in-india.html",
+            "name": "Graphic Cards"
+          },
+          "Motherboards": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/motherboards-price-list-in-india.html",
+            "name": "Motherboards"
+          },
+          "TV_Tuners": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/tv-tuners-price-list-in-india.html",
+            "name": "TV Tuners"
+          }
+        }
+      },
+      "STORAGE_AND_MEMORY": {
+        "name": "STORAGE AND MEMORY",
+        "categories": {
+          "External_DVD_Writers": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-external-dvd-writer-price-list-in-india.html",
+            "name": "External DVD Writers"
+          },
+          "MicroSD_Memory_Cards": {
+            "link": "http://www.mysmartprice.com/accessories/pricelist/memory-cards-price-list-in-india.html",
+            "name": "MicroSD Memory Cards"
+          },
+          "External_Hard_Disks": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-external-hard-disks-price-list-in-india.html",
+            "name": "External Hard Disks"
+          },
+          "Network_Attached_Storage": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/network-attached-storage-price-list-in-india.html",
+            "name": "Network Attached Storage"
+          },
+          "External_SSD": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/external-ssd-price-list-in-india.html",
+            "name": "External SSD"
+          },
+          "Card_Readers": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/card-reader-price-list-in-india.html",
+            "name": "Card Readers"
+          },
+          "Pen_Drives": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-pendrive-price-list-in-india.html",
+            "name": "Pen Drives"
+          },
+          "SD_Memory_Cards": {
+            "link": "http://www.mysmartprice.com/camera/pricelist/sd-memory-cards-price-list-in-india.html",
+            "name": "SD Memory Cards"
+          }
+        }
+      },
+      "PRINTERS_AND_INKS": {
+        "name": "PRINTERS AND INKS",
+        "categories": {
+          "Inkjet_Inks": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-inks-price-list-in-india.html",
+            "name": "Inkjet Inks"
+          },
+          "Single_Function_Printers": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-printer-price-list-in-india.html",
+            "name": "Single Function Printers"
+          },
+          "Multifunction_Printers": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-multi-function-price-list-in-india.html",
+            "name": "Multifunction Printers"
+          },
+          "Scanners": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-scanner-price-list-in-india.html",
+            "name": "Scanners"
+          },
+          "Laser_Toners": {
+            "link": "http://www.mysmartprice.com/computer/pricelist/computer-toners-price-list-in-india.html",
+            "name": "Laser Toners"
+          }
+        }
+      }
+    }
+  },
+  "Men_Fashion": {
+    "link": "http://www.mysmartprice.com/men/",
+    "name": "Men Fashion",
+    "categories": {
+      "POPULAR_CATEGORIES": {
+        "name": "POPULAR CATEGORIES",
+        "categories": {
+          "Sports_Shoes": {
+            "link": "http://www.mysmartprice.com/men/offers/sports-shoes-men",
+            "name": "Sports Shoes"
+          },
+          "Formal_Shirts": {
+            "link": "http://www.mysmartprice.com/men/formal-shirts-clothing-men",
+            "name": "Formal Shirts"
+          },
+          "Slippers_&_Flip_Flops": {
+            "link": "http://www.mysmartprice.com/men/slippers-shoes-men",
+            "name": "Slippers & Flip Flops"
+          },
+          "Sunglasses": {
+            "link": "http://www.mysmartprice.com/men/sunglasses-accessories-men",
+            "name": "Sunglasses"
+          },
+          "Ethnic_Wear": {
+            "link": "http://www.mysmartprice.com/men/ethnic-clothing-men",
+            "name": "Ethnic Wear"
+          },
+          "Belts": {
+            "link": "http://www.mysmartprice.com/men/belts-accessories-men",
+            "name": "Belts"
+          },
+          "Sweatshirts": {
+            "link": "http://www.mysmartprice.com/men/sweatshirts-winterwear-clothing-men",
+            "name": "Sweatshirts"
+          },
+          "Shorts_&_3/4ths": {
+            "link": "http://www.mysmartprice.com/men/shorts-3-4th-bottoms-clothing-men",
+            "name": "Shorts & 3/4ths"
+          },
+          "Jeans": {
+            "link": "http://www.mysmartprice.com/men/jeans-bottoms-clothing-men",
+            "name": "Jeans"
+          },
+          "Briefs": {
+            "link": "http://www.mysmartprice.com/men/briefs-men",
+            "name": "Briefs"
+          },
+          "Watches": {
+            "link": "http://www.mysmartprice.com/men/watches-men",
+            "name": "Watches"
+          },
+          "Pants_&_Trousers": {
+            "link": "http://www.mysmartprice.com/men/trousers-bottoms-clothing-men",
+            "name": "Pants & Trousers"
+          },
+          "Formal_Shoes": {
+            "link": "http://www.mysmartprice.com/men/formal-shoes-men",
+            "name": "Formal Shoes"
+          },
+          "Wallets": {
+            "link": "http://www.mysmartprice.com/men/wallets-bags-men",
+            "name": "Wallets"
+          },
+          "Sandals_&_Floaters": {
+            "link": "http://www.mysmartprice.com/men/sandals-shoes-men",
+            "name": "Sandals & Floaters"
+          },
+          "Socks": {
+            "link": "http://www.mysmartprice.com/men/socks-men",
+            "name": "Socks"
+          },
+          "Boxers": {
+            "link": "http://www.mysmartprice.com/men/boxers-men",
+            "name": "Boxers"
+          },
+          "Casual_Shirts": {
+            "link": "http://www.mysmartprice.com/men/casual-shirts-clothing-men",
+            "name": "Casual Shirts"
+          },
+          "Casual_Shoes": {
+            "link": "http://www.mysmartprice.com/men/casual-shoes-men",
+            "name": "Casual Shoes"
+          },
+          "T-Shirts": {
+            "link": "http://www.mysmartprice.com/men/tshirts-clothing-men",
+            "name": "T-Shirts"
+          }
+        }
+      },
+      "BAGS": {
+        "name": "BAGS",
+        "categories": {
+          "Wallets": {
+            "link": "http://www.mysmartprice.com/men/wallets-bags-men",
+            "name": "Wallets"
+          }
+        }
+      },
+      "SHOES": {
+        "name": "SHOES",
+        "categories": {
+          "Sports_Shoes": {
+            "link": "http://www.mysmartprice.com/men/offers/sports-shoes-men",
+            "name": "Sports Shoes"
+          },
+          "Shoe_Care": {
+            "link": "http://www.mysmartprice.com/men/shoe-care-men",
+            "name": "Shoe Care"
+          },
+          "Slippers_&_Flip_Flops": {
+            "link": "http://www.mysmartprice.com/men/slippers-shoes-men",
+            "name": "Slippers & Flip Flops"
+          },
+          "Formal_Shoes": {
+            "link": "http://www.mysmartprice.com/men/formal-shoes-men",
+            "name": "Formal Shoes"
+          },
+          "Sandals_&_Floaters": {
+            "link": "http://www.mysmartprice.com/men/sandals-shoes-men",
+            "name": "Sandals & Floaters"
+          },
+          "Casual_Shoes": {
+            "link": "http://www.mysmartprice.com/men/casual-shoes-men",
+            "name": "Casual Shoes"
+          }
+        }
+      },
+      "INNERWEAR_&_SLEEPWEAR": {
+        "name": "INNERWEAR & SLEEPWEAR",
+        "categories": {
+          "Night_Suits": {
+            "link": "http://www.mysmartprice.com/men/nightsuits-men",
+            "name": "Night Suits"
+          },
+          "Trunks": {
+            "link": "http://www.mysmartprice.com/men/trunks-men",
+            "name": "Trunks"
+          },
+          "Vests": {
+            "link": "http://www.mysmartprice.com/men/vests-men",
+            "name": "Vests"
+          },
+          "Briefs": {
+            "link": "http://www.mysmartprice.com/men/briefs-men",
+            "name": "Briefs"
+          },
+          "Pyjamas_&_Lounge_Pants": {
+            "link": "http://www.mysmartprice.com/men/pyjamas-men",
+            "name": "Pyjamas & Lounge Pants"
+          },
+          "Boxers": {
+            "link": "http://www.mysmartprice.com/men/boxers-men",
+            "name": "Boxers"
+          }
+        }
+      },
+      "ACCESSORIES": {
+        "name": "ACCESSORIES",
+        "categories": {
+          "Sunglasses": {
+            "link": "http://www.mysmartprice.com/men/sunglasses-accessories-men",
+            "name": "Sunglasses"
+          },
+          "Belts": {
+            "link": "http://www.mysmartprice.com/men/belts-accessories-men",
+            "name": "Belts"
+          },
+          "Rainwear": {
+            "link": "http://www.mysmartprice.com/men/rainwear-men",
+            "name": "Rainwear"
+          },
+          "Ties_&_Cufflinks": {
+            "link": "http://www.mysmartprice.com/men/ties-cufflinks-accessories-men",
+            "name": "Ties & Cufflinks"
+          },
+          "Watches": {
+            "link": "http://www.mysmartprice.com/men/watches-men",
+            "name": "Watches"
+          },
+          "Socks": {
+            "link": "http://www.mysmartprice.com/men/socks-men",
+            "name": "Socks"
+          },
+          "Caps_&_Hats": {
+            "link": "http://www.mysmartprice.com/men/caps-hats-men",
+            "name": "Caps & Hats"
+          }
+        }
+      },
+      "WINTER_WEAR": {
+        "name": "WINTER WEAR",
+        "categories": {
+          "Coats_&_Blazers": {
+            "link": "http://www.mysmartprice.com/men/coats-winterwear-clothing-men",
+            "name": "Coats & Blazers"
+          },
+          "Sweatshirts": {
+            "link": "http://www.mysmartprice.com/men/sweatshirts-winterwear-clothing-men",
+            "name": "Sweatshirts"
+          },
+          "Thermal_Wear": {
+            "link": "http://www.mysmartprice.com/men/thermal-wear-men",
+            "name": "Thermal Wear"
+          },
+          "Gloves,_Mufflers_&_Scarves": {
+            "link": "http://www.mysmartprice.com/men/gloves-mufflers-men",
+            "name": "Gloves, Mufflers & Scarves"
+          },
+          "Sweaters_&_Pullovers": {
+            "link": "http://www.mysmartprice.com/men/sweaters-winterwear-clothing-men",
+            "name": "Sweaters & Pullovers"
+          },
+          "Winter_Jackets": {
+            "link": "http://www.mysmartprice.com/men/jackets-winterwear-clothing-men",
+            "name": "Winter Jackets"
+          }
+        }
+      },
+      "JEWELLERY": {
+        "name": "JEWELLERY",
+        "categories": {
+          "Chains": {
+            "link": "http://www.mysmartprice.com/men/chains-men",
+            "name": "Chains"
+          },
+          "Precious_Coins": {
+            "link": "http://www.mysmartprice.com/men/goldcoins-men",
+            "name": "Precious Coins"
+          },
+          "Rings": {
+            "link": "http://www.mysmartprice.com/men/rings-men",
+            "name": "Rings"
+          },
+          "Bracelets": {
+            "link": "http://www.mysmartprice.com/men/bracelets-men",
+            "name": "Bracelets"
+          }
+        }
+      },
+      "CLOTHING": {
+        "name": "CLOTHING",
+        "categories": {
+          "Formal_Shirts": {
+            "link": "http://www.mysmartprice.com/men/formal-shirts-clothing-men",
+            "name": "Formal Shirts"
+          },
+          "Ethnic_Wear": {
+            "link": "http://www.mysmartprice.com/men/ethnic-clothing-men",
+            "name": "Ethnic Wear"
+          },
+          "Suits_&_Blazers": {
+            "link": "http://www.mysmartprice.com/men/suits-blazers-men",
+            "name": "Suits & Blazers"
+          },
+          "Shorts_&_3/4ths": {
+            "link": "http://www.mysmartprice.com/men/shorts-3-4th-bottoms-clothing-men",
+            "name": "Shorts & 3/4ths"
+          },
+          "Jeans": {
+            "link": "http://www.mysmartprice.com/men/jeans-bottoms-clothing-men",
+            "name": "Jeans"
+          },
+          "Pants_&_Trousers": {
+            "link": "http://www.mysmartprice.com/men/trousers-bottoms-clothing-men",
+            "name": "Pants & Trousers"
+          },
+          "Casual_Shirts": {
+            "link": "http://www.mysmartprice.com/men/casual-shirts-clothing-men",
+            "name": "Casual Shirts"
+          },
+          "T-Shirts": {
+            "link": "http://www.mysmartprice.com/men/tshirts-clothing-men",
+            "name": "T-Shirts"
+          }
+        }
+      },
+      "SPORTSWEAR": {
+        "name": "SPORTSWEAR",
+        "categories": {
+          "Track_Suits_&_Pants": {
+            "link": "http://www.mysmartprice.com/men/track-suits-men",
+            "name": "Track Suits & Pants"
+          },
+          "Shorts_&_3/4ths": {
+            "link": "http://www.mysmartprice.com/men/sports-shorts-men",
+            "name": "Shorts & 3/4ths"
+          },
+          "Track_Jackets": {
+            "link": "http://www.mysmartprice.com/men/track-jackets-men",
+            "name": "Track Jackets"
+          },
+          "Sports_T-shirts": {
+            "link": "http://www.mysmartprice.com/men/sports-tshirts-men",
+            "name": "Sports T-shirts"
+          },
+          "Swimwear": {
+            "link": "http://www.mysmartprice.com/men/swimwear-men",
+            "name": "Swimwear"
+          }
+        }
+      }
+    }
+  }
+}
