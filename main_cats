@@ -1,271 +1,270 @@
 {
-	"electronics":{
-		"name":"Electronics",
-		"categories":{
-			"laptops":{
-				"name":"Laptops"
-			},
-			"desktop":{
-				"name":"Desktop & Monitors"
-			},
-			"printers":{
-				"name":"Printers & Office Electronics"
-			},
-			"comAccessories":{
-				"name":"Computer Accessories"
-			},
-			"televisions":{
-				"name":"Televisons"
-			},
-			"camera":{
-				"name":"Camera & Accessories"
-			},
-			"storage":{
-				"name":"Storage Devices"
-			},
-			"grooming":{
-				"name":"Personal Grooming Accessories"
-			},
-			"home":{
-				"name":"Home Appliances"
-			},
-			"kitchen":{
-				"name":"Kitchen Appliances"
-			},
-			"gaming":{
-				"name":"Gaming"
-			}
-		}
-	},
-	"mobiles":{
-		"name":"Mobile & Accessories",
-		"categories":{
-			"tablets":{
-				"name":"Tablets"
-			},
-			"power":{
-				"name":"Power Banks"
-			},
-			"cases":{
-				"name":"Cases & Covers"
-			},
-			"headphones":{
-				"name":"Headphones & Headsets"
-			},
-			"wearable":{
-				"name":"Wearable Devices"
-			},
-			"bluetooth":{
-				"name":"Bluetooth Headsets"
-			},
-			"cables":{
-				"name":"Cables"
-			},
-			"battery":{
-				"name":"Mobile Battery"
-			},
-			"selfie":{
-				"name":"Selfie Sticks"
-			},
-			"chargers":{
-				"name":"Chargers"
-			}
-		}
-	},
-	"men":{
-		"name":"Mens Fashion",
-		"categories":{
-			"tshirts":{
-				"name":"Tshirts & Shirts"
-			},
-			"jeans":{
-				"name":"Jeans, Trousers & More"
-			},
-			"innerwear":{
-				"name":"Innerwear & Nightwear"
-			},
-			"festwear":{
-				"name":"Indian & Festive Wear"
-			},
-			"shoes":{
-				"name":"Shoes"
-			}
-		}
-	},
-	"women":{
-		"name":"Women's Fashion",
-		"categories":{
-			"ethnic":{
-				"name":"Ethnic Wear"
-			},
-			"western":{
-				"name":"Western Wear"
-			},
-			"lingerie":{
-				"name":"Lingerie & Sleepwear"
-			},
-			"winterwear":{
-				"name":"Winterwear"
-			},
-			"sports":{
-				"name":"Sports & Active wear"
-			},
-			"office":{
-				"name":"Office Essentials"
-			},
-			"party":{
-				"name":"Party Essentials"
-			},
-			"shoes":{
-				"name":"Shoes"
-			}
-
-		}
-	},
-	"home":{
-		"name":"Home & Kitchen",
-		"categories":{
-			"gas":{
-				"name":"Gas Stove"
-			},
-			"dining":{
-				"name":"Dining & Serving"
-			},
-			"kitchen":{
-				"name":"Kitchen Storage & Containers"
-			},
-			"bathroom":{
-				"name":"Bathroom Accessories"
-			}
-		}
-	},
-	"bags":{
-		"name":"Bags & More"
-		"categories":{
-			"handbags":{
-				"name":"Handbags"
-			},
-			"bags":{
-				"name":"All Bags"
-			},
-			"luggage":{
-				"name":"Luggage & Travel"
-			},
-			"accessories":{
-				"name":"Accessories Store"
-			}
-		}
-	},
-	"fitness":{
-		"name":"Fitness & Sports"
-		"categories":{
-			"protein":{
-				"name":"Protein Supplements"
-			},
-			"equipment":{
-				"name":"Fitness Equipments"
-			},
-			"accessories":{
-				"name":"Fitness Accessories"
-			},
-			"rackets":{
-				"name":"Racket Sports"
-			},
-			"team":{
-				"name":"Team Sports"
-			}
-		}
-	},
-	"baby":{
-		"name":"Toy & Baby",
-		"categories":{
-			"toy":{
-				"name":"Toy & Games"
-			},
-			"walkers":{
-				"name":"Prams & Walkers"
-			},
-			"care":{
-				"name":"Baby Care & Maternity"
-			},
-			"clothingGirls":{
-				"name":"Girls Clothing & Footwear"
-			},
-			"clothingBoys":{
-				"name":"Boys Clothing & Footwear"
-			},
-			"clothingInfants":{
-				"name":"Infants Clothing & Footwear"
-			},
-			"kids":{
-				"name":"Kids Accessories"
-			}
-		}
-	},
-	"musical":{
-		"name":"Musical Instruments",
-		"categories":{
-			"guitars":{
-				"name":"Guitars"
-			},
-			"keyboards":{
-				"name":"Keyboards  & Drums"
-			},
-			"dj":{
-				"name":"Dj & Amplifiers"
-			},
-			"indian":{
-				"name":"Indian Instruments"
-			},
-			"accessories":{
-				"name":"Accessories"
-			}
-		}
-	},
-	"gifts":{
-		"name":"Gifts & Flowers",
-		"categories":{
-			"cards":{
-				"name":"Gift Cards"
-			},
-			"hampers":{
-				"name":"Gift Hampers & Combos"
-			},
-			"decor":{
-				"name":"Decor Gifts"
-			}
-		}
-	},
-	"stationery":{
-		"name":"Stationery",
-		"categories":{
-			"pens":{
-				"name":"Pens"
-			},
-			"writing":{
-				"name":"Writing & Drawing"
-			},
-			"paper":{
-				"name":"Paper Supplies"
-			},
-			"files":{
-				"name":"Files & Folders"
-			},
-			"packaging":{
-				"name":"Packaging Supplies"
-			},
-			"office":{
-				"name":"Office Supplies"
-			},
-			"calculators":{
-				"name":"Calulators"
-			},
-			"diaries":{
-				"name":"Diaries & Notebooks"
-			},
-			"student":{
-				"name":"Student Stuff"
-			}
-		}
-	}
+  "electronics": {
+    "name": "Electronics",
+    "categories": {
+      "laptops": {
+        "name": "Laptops"
+      },
+      "desktop": {
+        "name": "Desktop & Monitors"
+      },
+      "printers": {
+        "name": "Printers & Office Electronics"
+      },
+      "comAccessories": {
+        "name": "Computer Accessories"
+      },
+      "televisions": {
+        "name": "Televisons"
+      },
+      "camera": {
+        "name": "Camera & Accessories"
+      },
+      "storage": {
+        "name": "Storage Devices"
+      },
+      "grooming": {
+        "name": "Personal Grooming Accessories"
+      },
+      "home": {
+        "name": "Home Appliances"
+      },
+      "kitchen": {
+        "name": "Kitchen Appliances"
+      },
+      "gaming": {
+        "name": "Gaming"
+      }
+    }
+  },
+  "mobiles": {
+    "name": "Mobile & Accessories",
+    "categories": {
+      "tablets": {
+        "name": "Tablets"
+      },
+      "power": {
+        "name": "Power Banks"
+      },
+      "cases": {
+        "name": "Cases & Covers"
+      },
+      "headphones": {
+        "name": "Headphones & Headsets"
+      },
+      "wearable": {
+        "name": "Wearable Devices"
+      },
+      "bluetooth": {
+        "name": "Bluetooth Headsets"
+      },
+      "cables": {
+        "name": "Cables"
+      },
+      "battery": {
+        "name": "Mobile Battery"
+      },
+      "selfie": {
+        "name": "Selfie Sticks"
+      },
+      "chargers": {
+        "name": "Chargers"
+      }
+    }
+  },
+  "men": {
+    "name": "Mens Fashion",
+    "categories": {
+      "tshirts": {
+        "name": "Tshirts & Shirts"
+      },
+      "jeans": {
+        "name": "Jeans, Trousers & More"
+      },
+      "innerwear": {
+        "name": "Innerwear & Nightwear"
+      },
+      "festwear": {
+        "name": "Indian & Festive Wear"
+      },
+      "shoes": {
+        "name": "Shoes"
+      }
+    }
+  },
+  "women": {
+    "name": "Women's Fashion",
+    "categories": {
+      "ethnic": {
+        "name": "Ethnic Wear"
+      },
+      "western": {
+        "name": "Western Wear"
+      },
+      "lingerie": {
+        "name": "Lingerie & Sleepwear"
+      },
+      "winterwear": {
+        "name": "Winterwear"
+      },
+      "sports": {
+        "name": "Sports & Active wear"
+      },
+      "office": {
+        "name": "Office Essentials"
+      },
+      "party": {
+        "name": "Party Essentials"
+      },
+      "shoes": {
+        "name": "Shoes"
+      }
+    }
+  },
+  "home": {
+    "name": "Home & Kitchen",
+    "categories": {
+      "gas": {
+        "name": "Gas Stove"
+      },
+      "dining": {
+        "name": "Dining & Serving"
+      },
+      "kitchen": {
+        "name": "Kitchen Storage & Containers"
+      },
+      "bathroom": {
+        "name": "Bathroom Accessories"
+      }
+    }
+  },
+  "bags": {
+    "name": "Bags & More",
+    "categories": {
+      "handbags": {
+        "name": "Handbags"
+      },
+      "bags": {
+        "name": "All Bags"
+      },
+      "luggage": {
+        "name": "Luggage & Travel"
+      },
+      "accessories": {
+        "name": "Accessories Store"
+      }
+    }
+  },
+  "fitness": {
+    "name": "Fitness & Sports",
+    "categories": {
+      "protein": {
+        "name": "Protein Supplements"
+      },
+      "equipment": {
+        "name": "Fitness Equipments"
+      },
+      "accessories": {
+        "name": "Fitness Accessories"
+      },
+      "rackets": {
+        "name": "Racket Sports"
+      },
+      "team": {
+        "name": "Team Sports"
+      }
+    }
+  },
+  "baby": {
+    "name": "Toy & Baby",
+    "categories": {
+      "toy": {
+        "name": "Toy & Games"
+      },
+      "walkers": {
+        "name": "Prams & Walkers"
+      },
+      "care": {
+        "name": "Baby Care & Maternity"
+      },
+      "clothingGirls": {
+        "name": "Girls Clothing & Footwear"
+      },
+      "clothingBoys": {
+        "name": "Boys Clothing & Footwear"
+      },
+      "clothingInfants": {
+        "name": "Infants Clothing & Footwear"
+      },
+      "kids": {
+        "name": "Kids Accessories"
+      }
+    }
+  },
+  "musical": {
+    "name": "Musical Instruments",
+    "categories": {
+      "guitars": {
+        "name": "Guitars"
+      },
+      "keyboards": {
+        "name": "Keyboards  & Drums"
+      },
+      "dj": {
+        "name": "Dj & Amplifiers"
+      },
+      "indian": {
+        "name": "Indian Instruments"
+      },
+      "accessories": {
+        "name": "Accessories"
+      }
+    }
+  },
+  "gifts": {
+    "name": "Gifts & Flowers",
+    "categories": {
+      "cards": {
+        "name": "Gift Cards"
+      },
+      "hampers": {
+        "name": "Gift Hampers & Combos"
+      },
+      "decor": {
+        "name": "Decor Gifts"
+      }
+    }
+  },
+  "stationery": {
+    "name": "Stationery",
+    "categories": {
+      "pens": {
+        "name": "Pens"
+      },
+      "writing": {
+        "name": "Writing & Drawing"
+      },
+      "paper": {
+        "name": "Paper Supplies"
+      },
+      "files": {
+        "name": "Files & Folders"
+      },
+      "packaging": {
+        "name": "Packaging Supplies"
+      },
+      "office": {
+        "name": "Office Supplies"
+      },
+      "calculators": {
+        "name": "Calulators"
+      },
+      "diaries": {
+        "name": "Diaries & Notebooks"
+      },
+      "student": {
+        "name": "Student Stuff"
+      }
+    }
+  }
 }
